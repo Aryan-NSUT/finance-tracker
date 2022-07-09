@@ -1,0 +1,14 @@
+.rightSideBox {
+  flex: 0.7;
+}
+.expense {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+.debitCredit {
+  margin-top: 25px;
+  display: flex;
+  justify-content: center;
+}

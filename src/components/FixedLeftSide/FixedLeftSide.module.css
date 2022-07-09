@@ -1,0 +1,47 @@
+.LeftSideBox {
+  flex: 0.3;
+  border-right: 3px solid #F5A640 !important;
+  margin-top: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.leftSideGoalsBorder {
+  padding-bottom: 10px;
+  border-bottom: 3px solid #F5A640;
+}
+.welcomeText {
+  font-size: large;
+  color: beige;
+}
+
+.leftSideGoalsPosition {
+  overflow: auto !important;
+  max-height: 13rem;
+}
+
+.leftSideGoals {
+  color: #8ad8d8;
+  background-color: #752727;
+  font-size: 13px !important;
+  margin-bottom: 20px;
+  list-style: none;
+  margin-top: 3px;
+  margin-bottom: 3px;
+  border-radius: 5px;
+}
+
+.leftSideGoalsAchieved {
+  color: #c6f5ca;
+  background-color: #277538;
+  font-size: 13px !important;
+  margin-bottom: 20px;
+  list-style: none;
+  margin-top: 3px;
+  margin-bottom: 3px;
+  border-radius: 5px;
+}
+
+.leftSideGoalsAchievedPosition {
+  overflow: auto !important;
+  max-height:20rem;
+}
